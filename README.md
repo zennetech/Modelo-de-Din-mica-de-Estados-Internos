@@ -1,4 +1,4 @@
- # Guia de Uso do MDEI: Modelo de Dinâmica de Estados Internos
+ #  MDEI: Modelo de Dinâmica de Estados Internos
 
 
 O **Modelo de Dinâmica de Estados Internos (MDEI)** é uma camada computacional que permite a sistemas de Inteligência Artificial (IA) modelar e responder a estados cognitivo-emocionais humanos em tempo real. Ele usa vetores tridimensionais `[c, iota, tau]` para representar semântica, intensidade e duração temporal, combinando álgebra vetorial, equações diferenciais e o **Número de Reynolds Emocional (Re_e)**, inspirado em hidrodinâmica. Este guia fornece um passo a passo para aplicar o MDEI, com os dados de entrada necessários, resultados esperados e exemplos práticos para integração em chatbots, plataformas de saúde mental ou assistentes virtuais.
